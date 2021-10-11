@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="Assets/logo/logo.svg" width=100pt/>
+  <img src="Assets/logo/logo.svg" width=400pt/>
     <h1 style="border-bottom: none">
 			Frames      
     </h1>
